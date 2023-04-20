@@ -1,4 +1,4 @@
-# 脚本
+# SinoScript
 
 ## 什么是 SinoScript
 
